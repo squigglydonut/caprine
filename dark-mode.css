@@ -1,16 +1,16 @@
 html.dark-mode body {
 	color: rgba(255, 255, 255, 0.7);
-	background: #192633 !important;
+	background: #282C33 !important;
 }
 
 /* Main container? */
 html.dark-mode ._4sp8 {
-	background: #192633 !important;
+	background: #282C33 !important;
 }
 
 /* Main content */
 html.dark-mode ._1q5- {
-	background: #192633 !important;
+	background: #282C33 !important;
 	border-left: 1px solid rgba(255, 255, 255, 0.05) !important;
 }
 
@@ -293,7 +293,7 @@ html.dark-mode ._33p7 ._5iwn ._58ak::before {
 html.dark-mode ._53ij,
 html.dark-mode ._4eby,
 html.dark-mode ._2c9g {
-	background: #192633 !important;
+	background: #282C33 !important;
 }
 
 /* Dialog: title and names */
@@ -311,7 +311,7 @@ html.dark-mode ._53io {
 
 /* Gif and sticker dialog: style the bottom of the list */
 html.dark-mode .uiScrollableArea.contentAfter:after {
-	background: linear-gradient(rgba(25, 38, 51, .05), #192633);
+	background: linear-gradient(rgba(25, 38, 51, .05), #282C33);
 }
 
 /* Sticker dialog: selected header */
@@ -345,5 +345,5 @@ html.dark-mode ._55r1._5f0v._43di {
 
 /* Login button */
 html.dark-mode button {
-	background: #192633 !important;
+	background: #282C33 !important;
 }
